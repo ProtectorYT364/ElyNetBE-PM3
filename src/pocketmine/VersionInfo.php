@@ -33,6 +33,6 @@ if(defined('pocketmine\_VERSION_INFO_INCLUDED')){
 const _VERSION_INFO_INCLUDED = true;
 
 const NAME = "ElyNetBE";
-const BASE_VERSION = "3.31.0";
+const BASE_VERSION = "3.32.0";
 const IS_DEVELOPMENT_BUILD = true;
 const BUILD_CHANNEL = "master";
